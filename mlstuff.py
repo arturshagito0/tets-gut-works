@@ -10,3 +10,6 @@ plt.show()
 
 c = [n**2 - 1 for n in range(0, 100)]
 print(c)
+
+
+d = np.arange(0, 10, 10)
