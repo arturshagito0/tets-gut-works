@@ -9,3 +9,4 @@ plt.scatter(a, ys, c='r')
 plt.show()
 
 c = [n ** 2 - 1 for n in range(0, 100)]
+
